@@ -1,2 +1,2 @@
 echo "Get user name:"
-read name
+read $name
