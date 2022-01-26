@@ -1,0 +1,3 @@
+#Ignore files called .sh and .project
+.sh
+.project
